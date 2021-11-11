@@ -1,0 +1,18 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+    text-align: center;
+} 
+.login{  
+    width: 1000px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 200px;  
+    padding: 80px;  
+    background: #23463f;  
+    border-radius: 15px ;  
+      
+}  
